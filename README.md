@@ -1,5 +1,5 @@
-# Atlas-Case-Study-HR-Analytics-People-Analytics-project
 
+You can Download and open ¨Atlas project study.pbix¨ with Powerbi Desktop .
 
 # Atlas Labs HR Analytics — Power BI
 
